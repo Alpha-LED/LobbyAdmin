@@ -1,0 +1,4 @@
+host:10.10.10.10
+auth_user:dXNlcm5hbWU=
+auth_pass:cGFzc3dvcmQ=
+guest_wlan_id:28
